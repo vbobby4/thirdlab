@@ -1,0 +1,52 @@
+root, html, body, .row, .left, .right {
+    height: 100%; 
+}
+
+.left {
+    background-color: #FEF4F4;
+    padding: 3em;
+}
+
+.right {
+    padding: 5em 5em 0;
+}
+
+.institution {
+    color: #D23535;
+}
+
+
+.mainText {
+    font-size: 63pt;
+}
+
+.ml-1{
+    margin-left: 1em;
+
+}
+.bold {
+    font-weight: bold;
+}
+
+.oneLineContainer {
+    display: inline-flex;
+    width: 100%;
+}
+.spaceBetween{
+    justify-content: space-between;
+
+}
+.firstHeading {
+    font-size: 43pt;
+}
+
+.secondHeading {
+    font-size: 30pt;
+}
+
+.defaultText {
+    font-size: 24pt;
+}
+.gray{
+    color: gray;
+}
